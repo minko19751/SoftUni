@@ -1,0 +1,13 @@
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Hot Potato - Lab\bin\Debug\netcoreapp3.1\Hot Potato - Lab.exe
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Hot Potato - Lab\bin\Debug\netcoreapp3.1\Hot Potato - Lab.deps.json
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Hot Potato - Lab\bin\Debug\netcoreapp3.1\Hot Potato - Lab.runtimeconfig.json
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Hot Potato - Lab\bin\Debug\netcoreapp3.1\Hot Potato - Lab.runtimeconfig.dev.json
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Hot Potato - Lab\bin\Debug\netcoreapp3.1\Hot Potato - Lab.dll
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Hot Potato - Lab\bin\Debug\netcoreapp3.1\Hot Potato - Lab.pdb
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Hot Potato - Lab\obj\Debug\netcoreapp3.1\Hot Potato - Lab.csprojAssemblyReference.cache
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Hot Potato - Lab\obj\Debug\netcoreapp3.1\Hot Potato - Lab.AssemblyInfoInputs.cache
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Hot Potato - Lab\obj\Debug\netcoreapp3.1\Hot Potato - Lab.AssemblyInfo.cs
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Hot Potato - Lab\obj\Debug\netcoreapp3.1\Hot Potato - Lab.dll
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Hot Potato - Lab\obj\Debug\netcoreapp3.1\Hot Potato - Lab.pdb
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Hot Potato - Lab\obj\Debug\netcoreapp3.1\Hot Potato - Lab.csproj.CoreCompileInputs.cache
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Hot Potato - Lab\obj\Debug\netcoreapp3.1\Hot Potato - Lab.genruntimeconfig.cache

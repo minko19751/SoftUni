@@ -1,0 +1,13 @@
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Key Revolver - Exercise\bin\Debug\netcoreapp3.1\Key Revolver - Exercise.exe
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Key Revolver - Exercise\bin\Debug\netcoreapp3.1\Key Revolver - Exercise.deps.json
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Key Revolver - Exercise\bin\Debug\netcoreapp3.1\Key Revolver - Exercise.runtimeconfig.json
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Key Revolver - Exercise\bin\Debug\netcoreapp3.1\Key Revolver - Exercise.runtimeconfig.dev.json
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Key Revolver - Exercise\bin\Debug\netcoreapp3.1\Key Revolver - Exercise.dll
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Key Revolver - Exercise\bin\Debug\netcoreapp3.1\Key Revolver - Exercise.pdb
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Key Revolver - Exercise\obj\Debug\netcoreapp3.1\Key Revolver - Exercise.csprojAssemblyReference.cache
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Key Revolver - Exercise\obj\Debug\netcoreapp3.1\Key Revolver - Exercise.AssemblyInfoInputs.cache
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Key Revolver - Exercise\obj\Debug\netcoreapp3.1\Key Revolver - Exercise.AssemblyInfo.cs
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Key Revolver - Exercise\obj\Debug\netcoreapp3.1\Key Revolver - Exercise.dll
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Key Revolver - Exercise\obj\Debug\netcoreapp3.1\Key Revolver - Exercise.pdb
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Key Revolver - Exercise\obj\Debug\netcoreapp3.1\Key Revolver - Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Key Revolver - Exercise\obj\Debug\netcoreapp3.1\Key Revolver - Exercise.genruntimeconfig.cache

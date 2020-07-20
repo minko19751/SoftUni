@@ -1,0 +1,13 @@
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Truck Tour - Exercise\bin\Debug\netcoreapp3.1\Truck Tour - Exercise.exe
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Truck Tour - Exercise\bin\Debug\netcoreapp3.1\Truck Tour - Exercise.deps.json
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Truck Tour - Exercise\bin\Debug\netcoreapp3.1\Truck Tour - Exercise.runtimeconfig.json
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Truck Tour - Exercise\bin\Debug\netcoreapp3.1\Truck Tour - Exercise.runtimeconfig.dev.json
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Truck Tour - Exercise\bin\Debug\netcoreapp3.1\Truck Tour - Exercise.dll
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Truck Tour - Exercise\bin\Debug\netcoreapp3.1\Truck Tour - Exercise.pdb
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Truck Tour - Exercise\obj\Debug\netcoreapp3.1\Truck Tour - Exercise.csprojAssemblyReference.cache
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Truck Tour - Exercise\obj\Debug\netcoreapp3.1\Truck Tour - Exercise.AssemblyInfoInputs.cache
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Truck Tour - Exercise\obj\Debug\netcoreapp3.1\Truck Tour - Exercise.AssemblyInfo.cs
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Truck Tour - Exercise\obj\Debug\netcoreapp3.1\Truck Tour - Exercise.dll
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Truck Tour - Exercise\obj\Debug\netcoreapp3.1\Truck Tour - Exercise.pdb
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Truck Tour - Exercise\obj\Debug\netcoreapp3.1\Truck Tour - Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Truck Tour - Exercise\obj\Debug\netcoreapp3.1\Truck Tour - Exercise.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Maximum and Minimum Element - Exercise\bin\Debug\netcoreapp3.1\Maximum and Minimum Element - Exercise.exe
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Maximum and Minimum Element - Exercise\bin\Debug\netcoreapp3.1\Maximum and Minimum Element - Exercise.deps.json
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Maximum and Minimum Element - Exercise\bin\Debug\netcoreapp3.1\Maximum and Minimum Element - Exercise.runtimeconfig.json
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Maximum and Minimum Element - Exercise\bin\Debug\netcoreapp3.1\Maximum and Minimum Element - Exercise.runtimeconfig.dev.json
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Maximum and Minimum Element - Exercise\bin\Debug\netcoreapp3.1\Maximum and Minimum Element - Exercise.dll
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Maximum and Minimum Element - Exercise\bin\Debug\netcoreapp3.1\Maximum and Minimum Element - Exercise.pdb
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Maximum and Minimum Element - Exercise\obj\Debug\netcoreapp3.1\Maximum and Minimum Element - Exercise.csprojAssemblyReference.cache
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Maximum and Minimum Element - Exercise\obj\Debug\netcoreapp3.1\Maximum and Minimum Element - Exercise.AssemblyInfoInputs.cache
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Maximum and Minimum Element - Exercise\obj\Debug\netcoreapp3.1\Maximum and Minimum Element - Exercise.AssemblyInfo.cs
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Maximum and Minimum Element - Exercise\obj\Debug\netcoreapp3.1\Maximum and Minimum Element - Exercise.dll
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Maximum and Minimum Element - Exercise\obj\Debug\netcoreapp3.1\Maximum and Minimum Element - Exercise.pdb
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Maximum and Minimum Element - Exercise\obj\Debug\netcoreapp3.1\Maximum and Minimum Element - Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Maximum and Minimum Element - Exercise\obj\Debug\netcoreapp3.1\Maximum and Minimum Element - Exercise.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Matching Brackets - Lab\bin\Debug\netcoreapp3.1\Matching Brackets - Lab.exe
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Matching Brackets - Lab\bin\Debug\netcoreapp3.1\Matching Brackets - Lab.deps.json
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Matching Brackets - Lab\bin\Debug\netcoreapp3.1\Matching Brackets - Lab.runtimeconfig.json
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Matching Brackets - Lab\bin\Debug\netcoreapp3.1\Matching Brackets - Lab.runtimeconfig.dev.json
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Matching Brackets - Lab\bin\Debug\netcoreapp3.1\Matching Brackets - Lab.dll
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Matching Brackets - Lab\bin\Debug\netcoreapp3.1\Matching Brackets - Lab.pdb
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Matching Brackets - Lab\obj\Debug\netcoreapp3.1\Matching Brackets - Lab.csprojAssemblyReference.cache
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Matching Brackets - Lab\obj\Debug\netcoreapp3.1\Matching Brackets - Lab.AssemblyInfoInputs.cache
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Matching Brackets - Lab\obj\Debug\netcoreapp3.1\Matching Brackets - Lab.AssemblyInfo.cs
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Matching Brackets - Lab\obj\Debug\netcoreapp3.1\Matching Brackets - Lab.dll
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Matching Brackets - Lab\obj\Debug\netcoreapp3.1\Matching Brackets - Lab.pdb
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Matching Brackets - Lab\obj\Debug\netcoreapp3.1\Matching Brackets - Lab.csproj.CoreCompileInputs.cache
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Matching Brackets - Lab\obj\Debug\netcoreapp3.1\Matching Brackets - Lab.genruntimeconfig.cache

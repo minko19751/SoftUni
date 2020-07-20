@@ -1,0 +1,13 @@
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Cups and Bottles - Exercise\bin\Debug\netcoreapp3.1\Cups and Bottles - Exercise.exe
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Cups and Bottles - Exercise\bin\Debug\netcoreapp3.1\Cups and Bottles - Exercise.deps.json
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Cups and Bottles - Exercise\bin\Debug\netcoreapp3.1\Cups and Bottles - Exercise.runtimeconfig.json
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Cups and Bottles - Exercise\bin\Debug\netcoreapp3.1\Cups and Bottles - Exercise.runtimeconfig.dev.json
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Cups and Bottles - Exercise\bin\Debug\netcoreapp3.1\Cups and Bottles - Exercise.dll
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Cups and Bottles - Exercise\bin\Debug\netcoreapp3.1\Cups and Bottles - Exercise.pdb
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Cups and Bottles - Exercise\obj\Debug\netcoreapp3.1\Cups and Bottles - Exercise.csprojAssemblyReference.cache
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Cups and Bottles - Exercise\obj\Debug\netcoreapp3.1\Cups and Bottles - Exercise.AssemblyInfoInputs.cache
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Cups and Bottles - Exercise\obj\Debug\netcoreapp3.1\Cups and Bottles - Exercise.AssemblyInfo.cs
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Cups and Bottles - Exercise\obj\Debug\netcoreapp3.1\Cups and Bottles - Exercise.dll
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Cups and Bottles - Exercise\obj\Debug\netcoreapp3.1\Cups and Bottles - Exercise.pdb
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Cups and Bottles - Exercise\obj\Debug\netcoreapp3.1\Cups and Bottles - Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Cups and Bottles - Exercise\obj\Debug\netcoreapp3.1\Cups and Bottles - Exercise.genruntimeconfig.cache

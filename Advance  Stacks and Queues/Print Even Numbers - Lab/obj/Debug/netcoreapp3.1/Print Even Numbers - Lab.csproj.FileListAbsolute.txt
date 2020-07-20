@@ -1,0 +1,13 @@
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Print Even Numbers - Lab\bin\Debug\netcoreapp3.1\Print Even Numbers - Lab.exe
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Print Even Numbers - Lab\bin\Debug\netcoreapp3.1\Print Even Numbers - Lab.deps.json
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Print Even Numbers - Lab\bin\Debug\netcoreapp3.1\Print Even Numbers - Lab.runtimeconfig.json
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Print Even Numbers - Lab\bin\Debug\netcoreapp3.1\Print Even Numbers - Lab.runtimeconfig.dev.json
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Print Even Numbers - Lab\bin\Debug\netcoreapp3.1\Print Even Numbers - Lab.dll
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Print Even Numbers - Lab\bin\Debug\netcoreapp3.1\Print Even Numbers - Lab.pdb
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Print Even Numbers - Lab\obj\Debug\netcoreapp3.1\Print Even Numbers - Lab.AssemblyInfoInputs.cache
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Print Even Numbers - Lab\obj\Debug\netcoreapp3.1\Print Even Numbers - Lab.AssemblyInfo.cs
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Print Even Numbers - Lab\obj\Debug\netcoreapp3.1\Print Even Numbers - Lab.dll
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Print Even Numbers - Lab\obj\Debug\netcoreapp3.1\Print Even Numbers - Lab.pdb
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Print Even Numbers - Lab\obj\Debug\netcoreapp3.1\Print Even Numbers - Lab.csprojAssemblyReference.cache
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Print Even Numbers - Lab\obj\Debug\netcoreapp3.1\Print Even Numbers - Lab.csproj.CoreCompileInputs.cache
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Print Even Numbers - Lab\obj\Debug\netcoreapp3.1\Print Even Numbers - Lab.genruntimeconfig.cache

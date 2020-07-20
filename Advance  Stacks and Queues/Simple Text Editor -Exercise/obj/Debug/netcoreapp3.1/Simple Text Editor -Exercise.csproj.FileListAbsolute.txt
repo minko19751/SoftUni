@@ -1,0 +1,13 @@
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Simple Text Editor -Exercise\bin\Debug\netcoreapp3.1\Simple Text Editor -Exercise.exe
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Simple Text Editor -Exercise\bin\Debug\netcoreapp3.1\Simple Text Editor -Exercise.deps.json
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Simple Text Editor -Exercise\bin\Debug\netcoreapp3.1\Simple Text Editor -Exercise.runtimeconfig.json
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Simple Text Editor -Exercise\bin\Debug\netcoreapp3.1\Simple Text Editor -Exercise.runtimeconfig.dev.json
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Simple Text Editor -Exercise\bin\Debug\netcoreapp3.1\Simple Text Editor -Exercise.dll
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Simple Text Editor -Exercise\bin\Debug\netcoreapp3.1\Simple Text Editor -Exercise.pdb
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Simple Text Editor -Exercise\obj\Debug\netcoreapp3.1\Simple Text Editor -Exercise.csprojAssemblyReference.cache
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Simple Text Editor -Exercise\obj\Debug\netcoreapp3.1\Simple Text Editor -Exercise.AssemblyInfoInputs.cache
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Simple Text Editor -Exercise\obj\Debug\netcoreapp3.1\Simple Text Editor -Exercise.AssemblyInfo.cs
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Simple Text Editor -Exercise\obj\Debug\netcoreapp3.1\Simple Text Editor -Exercise.dll
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Simple Text Editor -Exercise\obj\Debug\netcoreapp3.1\Simple Text Editor -Exercise.pdb
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Simple Text Editor -Exercise\obj\Debug\netcoreapp3.1\Simple Text Editor -Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Simple Text Editor -Exercise\obj\Debug\netcoreapp3.1\Simple Text Editor -Exercise.genruntimeconfig.cache

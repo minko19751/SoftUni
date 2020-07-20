@@ -1,0 +1,13 @@
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Basic Queue Operations - Exercise\bin\Debug\netcoreapp3.1\Basic Queue Operations - Exercise.exe
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Basic Queue Operations - Exercise\bin\Debug\netcoreapp3.1\Basic Queue Operations - Exercise.deps.json
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Basic Queue Operations - Exercise\bin\Debug\netcoreapp3.1\Basic Queue Operations - Exercise.runtimeconfig.json
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Basic Queue Operations - Exercise\bin\Debug\netcoreapp3.1\Basic Queue Operations - Exercise.runtimeconfig.dev.json
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Basic Queue Operations - Exercise\bin\Debug\netcoreapp3.1\Basic Queue Operations - Exercise.dll
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Basic Queue Operations - Exercise\bin\Debug\netcoreapp3.1\Basic Queue Operations - Exercise.pdb
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Basic Queue Operations - Exercise\obj\Debug\netcoreapp3.1\Basic Queue Operations - Exercise.AssemblyInfoInputs.cache
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Basic Queue Operations - Exercise\obj\Debug\netcoreapp3.1\Basic Queue Operations - Exercise.AssemblyInfo.cs
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Basic Queue Operations - Exercise\obj\Debug\netcoreapp3.1\Basic Queue Operations - Exercise.dll
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Basic Queue Operations - Exercise\obj\Debug\netcoreapp3.1\Basic Queue Operations - Exercise.pdb
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Basic Queue Operations - Exercise\obj\Debug\netcoreapp3.1\Basic Queue Operations - Exercise.csprojAssemblyReference.cache
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Basic Queue Operations - Exercise\obj\Debug\netcoreapp3.1\Basic Queue Operations - Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Basic Queue Operations - Exercise\obj\Debug\netcoreapp3.1\Basic Queue Operations - Exercise.genruntimeconfig.cache

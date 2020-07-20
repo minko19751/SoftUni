@@ -1,0 +1,13 @@
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Traffic Jam - Lab\bin\Debug\netcoreapp3.1\Traffic Jam - Lab.exe
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Traffic Jam - Lab\bin\Debug\netcoreapp3.1\Traffic Jam - Lab.deps.json
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Traffic Jam - Lab\bin\Debug\netcoreapp3.1\Traffic Jam - Lab.runtimeconfig.json
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Traffic Jam - Lab\bin\Debug\netcoreapp3.1\Traffic Jam - Lab.runtimeconfig.dev.json
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Traffic Jam - Lab\bin\Debug\netcoreapp3.1\Traffic Jam - Lab.dll
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Traffic Jam - Lab\bin\Debug\netcoreapp3.1\Traffic Jam - Lab.pdb
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Traffic Jam - Lab\obj\Debug\netcoreapp3.1\Traffic Jam - Lab.csprojAssemblyReference.cache
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Traffic Jam - Lab\obj\Debug\netcoreapp3.1\Traffic Jam - Lab.AssemblyInfoInputs.cache
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Traffic Jam - Lab\obj\Debug\netcoreapp3.1\Traffic Jam - Lab.AssemblyInfo.cs
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Traffic Jam - Lab\obj\Debug\netcoreapp3.1\Traffic Jam - Lab.dll
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Traffic Jam - Lab\obj\Debug\netcoreapp3.1\Traffic Jam - Lab.pdb
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Traffic Jam - Lab\obj\Debug\netcoreapp3.1\Traffic Jam - Lab.csproj.CoreCompileInputs.cache
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Traffic Jam - Lab\obj\Debug\netcoreapp3.1\Traffic Jam - Lab.genruntimeconfig.cache

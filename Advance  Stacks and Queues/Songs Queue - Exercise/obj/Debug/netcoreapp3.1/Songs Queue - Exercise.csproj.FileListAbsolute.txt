@@ -1,0 +1,13 @@
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Songs Queue - Exercise\bin\Debug\netcoreapp3.1\Songs Queue - Exercise.exe
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Songs Queue - Exercise\bin\Debug\netcoreapp3.1\Songs Queue - Exercise.deps.json
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Songs Queue - Exercise\bin\Debug\netcoreapp3.1\Songs Queue - Exercise.runtimeconfig.json
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Songs Queue - Exercise\bin\Debug\netcoreapp3.1\Songs Queue - Exercise.runtimeconfig.dev.json
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Songs Queue - Exercise\bin\Debug\netcoreapp3.1\Songs Queue - Exercise.dll
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Songs Queue - Exercise\bin\Debug\netcoreapp3.1\Songs Queue - Exercise.pdb
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Songs Queue - Exercise\obj\Debug\netcoreapp3.1\Songs Queue - Exercise.csprojAssemblyReference.cache
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Songs Queue - Exercise\obj\Debug\netcoreapp3.1\Songs Queue - Exercise.AssemblyInfoInputs.cache
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Songs Queue - Exercise\obj\Debug\netcoreapp3.1\Songs Queue - Exercise.AssemblyInfo.cs
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Songs Queue - Exercise\obj\Debug\netcoreapp3.1\Songs Queue - Exercise.dll
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Songs Queue - Exercise\obj\Debug\netcoreapp3.1\Songs Queue - Exercise.pdb
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Songs Queue - Exercise\obj\Debug\netcoreapp3.1\Songs Queue - Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Songs Queue - Exercise\obj\Debug\netcoreapp3.1\Songs Queue - Exercise.genruntimeconfig.cache

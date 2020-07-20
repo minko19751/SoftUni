@@ -1,0 +1,13 @@
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Basic Stack Operations - Exercise\bin\Debug\netcoreapp3.1\Basic Stack Operations - Exercise.exe
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Basic Stack Operations - Exercise\bin\Debug\netcoreapp3.1\Basic Stack Operations - Exercise.deps.json
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Basic Stack Operations - Exercise\bin\Debug\netcoreapp3.1\Basic Stack Operations - Exercise.runtimeconfig.json
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Basic Stack Operations - Exercise\bin\Debug\netcoreapp3.1\Basic Stack Operations - Exercise.runtimeconfig.dev.json
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Basic Stack Operations - Exercise\bin\Debug\netcoreapp3.1\Basic Stack Operations - Exercise.dll
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Basic Stack Operations - Exercise\bin\Debug\netcoreapp3.1\Basic Stack Operations - Exercise.pdb
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Basic Stack Operations - Exercise\obj\Debug\netcoreapp3.1\Basic Stack Operations - Exercise.csprojAssemblyReference.cache
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Basic Stack Operations - Exercise\obj\Debug\netcoreapp3.1\Basic Stack Operations - Exercise.AssemblyInfoInputs.cache
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Basic Stack Operations - Exercise\obj\Debug\netcoreapp3.1\Basic Stack Operations - Exercise.AssemblyInfo.cs
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Basic Stack Operations - Exercise\obj\Debug\netcoreapp3.1\Basic Stack Operations - Exercise.dll
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Basic Stack Operations - Exercise\obj\Debug\netcoreapp3.1\Basic Stack Operations - Exercise.pdb
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Basic Stack Operations - Exercise\obj\Debug\netcoreapp3.1\Basic Stack Operations - Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Basic Stack Operations - Exercise\obj\Debug\netcoreapp3.1\Basic Stack Operations - Exercise.genruntimeconfig.cache

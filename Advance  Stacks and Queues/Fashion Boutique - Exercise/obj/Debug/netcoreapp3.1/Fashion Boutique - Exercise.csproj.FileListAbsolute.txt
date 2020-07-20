@@ -1,0 +1,13 @@
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Fashion Boutique - Exercise\bin\Debug\netcoreapp3.1\Fashion Boutique - Exercise.exe
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Fashion Boutique - Exercise\bin\Debug\netcoreapp3.1\Fashion Boutique - Exercise.deps.json
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Fashion Boutique - Exercise\bin\Debug\netcoreapp3.1\Fashion Boutique - Exercise.runtimeconfig.json
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Fashion Boutique - Exercise\bin\Debug\netcoreapp3.1\Fashion Boutique - Exercise.runtimeconfig.dev.json
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Fashion Boutique - Exercise\bin\Debug\netcoreapp3.1\Fashion Boutique - Exercise.dll
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Fashion Boutique - Exercise\bin\Debug\netcoreapp3.1\Fashion Boutique - Exercise.pdb
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Fashion Boutique - Exercise\obj\Debug\netcoreapp3.1\Fashion Boutique - Exercise.AssemblyInfoInputs.cache
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Fashion Boutique - Exercise\obj\Debug\netcoreapp3.1\Fashion Boutique - Exercise.AssemblyInfo.cs
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Fashion Boutique - Exercise\obj\Debug\netcoreapp3.1\Fashion Boutique - Exercise.dll
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Fashion Boutique - Exercise\obj\Debug\netcoreapp3.1\Fashion Boutique - Exercise.pdb
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Fashion Boutique - Exercise\obj\Debug\netcoreapp3.1\Fashion Boutique - Exercise.csprojAssemblyReference.cache
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Fashion Boutique - Exercise\obj\Debug\netcoreapp3.1\Fashion Boutique - Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Fashion Boutique - Exercise\obj\Debug\netcoreapp3.1\Fashion Boutique - Exercise.genruntimeconfig.cache

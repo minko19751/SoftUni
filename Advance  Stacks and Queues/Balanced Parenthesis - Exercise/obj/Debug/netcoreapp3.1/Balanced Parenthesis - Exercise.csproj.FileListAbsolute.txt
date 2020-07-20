@@ -1,0 +1,13 @@
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Balanced Parenthesis - Exercise\bin\Debug\netcoreapp3.1\Balanced Parenthesis - Exercise.exe
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Balanced Parenthesis - Exercise\bin\Debug\netcoreapp3.1\Balanced Parenthesis - Exercise.deps.json
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Balanced Parenthesis - Exercise\bin\Debug\netcoreapp3.1\Balanced Parenthesis - Exercise.runtimeconfig.json
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Balanced Parenthesis - Exercise\bin\Debug\netcoreapp3.1\Balanced Parenthesis - Exercise.runtimeconfig.dev.json
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Balanced Parenthesis - Exercise\bin\Debug\netcoreapp3.1\Balanced Parenthesis - Exercise.dll
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Balanced Parenthesis - Exercise\bin\Debug\netcoreapp3.1\Balanced Parenthesis - Exercise.pdb
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Balanced Parenthesis - Exercise\obj\Debug\netcoreapp3.1\Balanced Parenthesis - Exercise.csprojAssemblyReference.cache
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Balanced Parenthesis - Exercise\obj\Debug\netcoreapp3.1\Balanced Parenthesis - Exercise.AssemblyInfoInputs.cache
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Balanced Parenthesis - Exercise\obj\Debug\netcoreapp3.1\Balanced Parenthesis - Exercise.AssemblyInfo.cs
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Balanced Parenthesis - Exercise\obj\Debug\netcoreapp3.1\Balanced Parenthesis - Exercise.dll
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Balanced Parenthesis - Exercise\obj\Debug\netcoreapp3.1\Balanced Parenthesis - Exercise.pdb
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Balanced Parenthesis - Exercise\obj\Debug\netcoreapp3.1\Balanced Parenthesis - Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Balanced Parenthesis - Exercise\obj\Debug\netcoreapp3.1\Balanced Parenthesis - Exercise.genruntimeconfig.cache

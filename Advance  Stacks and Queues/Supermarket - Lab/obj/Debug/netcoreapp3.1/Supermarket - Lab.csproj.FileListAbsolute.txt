@@ -1,0 +1,13 @@
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Supermarket - Lab\bin\Debug\netcoreapp3.1\Supermarket - Lab.exe
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Supermarket - Lab\bin\Debug\netcoreapp3.1\Supermarket - Lab.deps.json
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Supermarket - Lab\bin\Debug\netcoreapp3.1\Supermarket - Lab.runtimeconfig.json
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Supermarket - Lab\bin\Debug\netcoreapp3.1\Supermarket - Lab.runtimeconfig.dev.json
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Supermarket - Lab\bin\Debug\netcoreapp3.1\Supermarket - Lab.dll
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Supermarket - Lab\bin\Debug\netcoreapp3.1\Supermarket - Lab.pdb
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Supermarket - Lab\obj\Debug\netcoreapp3.1\Supermarket - Lab.csprojAssemblyReference.cache
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Supermarket - Lab\obj\Debug\netcoreapp3.1\Supermarket - Lab.AssemblyInfoInputs.cache
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Supermarket - Lab\obj\Debug\netcoreapp3.1\Supermarket - Lab.AssemblyInfo.cs
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Supermarket - Lab\obj\Debug\netcoreapp3.1\Supermarket - Lab.dll
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Supermarket - Lab\obj\Debug\netcoreapp3.1\Supermarket - Lab.pdb
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Supermarket - Lab\obj\Debug\netcoreapp3.1\Supermarket - Lab.csproj.CoreCompileInputs.cache
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Supermarket - Lab\obj\Debug\netcoreapp3.1\Supermarket - Lab.genruntimeconfig.cache

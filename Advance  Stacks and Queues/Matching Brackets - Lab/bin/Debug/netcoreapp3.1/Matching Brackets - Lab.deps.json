@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Matching Brackets - Lab/1.0.0": {
+        "runtime": {
+          "Matching Brackets - Lab.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Matching Brackets - Lab/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

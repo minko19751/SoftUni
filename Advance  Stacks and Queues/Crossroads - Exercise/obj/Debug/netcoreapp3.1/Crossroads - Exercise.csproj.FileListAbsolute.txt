@@ -1,0 +1,13 @@
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Crossroads - Exercise\bin\Debug\netcoreapp3.1\Crossroads - Exercise.exe
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Crossroads - Exercise\bin\Debug\netcoreapp3.1\Crossroads - Exercise.deps.json
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Crossroads - Exercise\bin\Debug\netcoreapp3.1\Crossroads - Exercise.runtimeconfig.json
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Crossroads - Exercise\bin\Debug\netcoreapp3.1\Crossroads - Exercise.runtimeconfig.dev.json
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Crossroads - Exercise\bin\Debug\netcoreapp3.1\Crossroads - Exercise.dll
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Crossroads - Exercise\bin\Debug\netcoreapp3.1\Crossroads - Exercise.pdb
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Crossroads - Exercise\obj\Debug\netcoreapp3.1\Crossroads - Exercise.AssemblyInfoInputs.cache
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Crossroads - Exercise\obj\Debug\netcoreapp3.1\Crossroads - Exercise.AssemblyInfo.cs
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Crossroads - Exercise\obj\Debug\netcoreapp3.1\Crossroads - Exercise.dll
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Crossroads - Exercise\obj\Debug\netcoreapp3.1\Crossroads - Exercise.pdb
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Crossroads - Exercise\obj\Debug\netcoreapp3.1\Crossroads - Exercise.csprojAssemblyReference.cache
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Crossroads - Exercise\obj\Debug\netcoreapp3.1\Crossroads - Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Crossroads - Exercise\obj\Debug\netcoreapp3.1\Crossroads - Exercise.genruntimeconfig.cache

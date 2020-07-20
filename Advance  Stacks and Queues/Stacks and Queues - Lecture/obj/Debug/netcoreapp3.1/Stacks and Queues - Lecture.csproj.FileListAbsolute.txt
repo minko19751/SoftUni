@@ -1,0 +1,13 @@
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Stacks and Queues - Lecture\bin\Debug\netcoreapp3.1\Stacks and Queues - Lecture.exe
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Stacks and Queues - Lecture\bin\Debug\netcoreapp3.1\Stacks and Queues - Lecture.deps.json
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Stacks and Queues - Lecture\bin\Debug\netcoreapp3.1\Stacks and Queues - Lecture.runtimeconfig.json
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Stacks and Queues - Lecture\bin\Debug\netcoreapp3.1\Stacks and Queues - Lecture.runtimeconfig.dev.json
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Stacks and Queues - Lecture\bin\Debug\netcoreapp3.1\Stacks and Queues - Lecture.dll
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Stacks and Queues - Lecture\bin\Debug\netcoreapp3.1\Stacks and Queues - Lecture.pdb
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Stacks and Queues - Lecture\obj\Debug\netcoreapp3.1\Stacks and Queues - Lecture.csprojAssemblyReference.cache
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Stacks and Queues - Lecture\obj\Debug\netcoreapp3.1\Stacks and Queues - Lecture.AssemblyInfoInputs.cache
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Stacks and Queues - Lecture\obj\Debug\netcoreapp3.1\Stacks and Queues - Lecture.AssemblyInfo.cs
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Stacks and Queues - Lecture\obj\Debug\netcoreapp3.1\Stacks and Queues - Lecture.dll
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Stacks and Queues - Lecture\obj\Debug\netcoreapp3.1\Stacks and Queues - Lecture.pdb
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Stacks and Queues - Lecture\obj\Debug\netcoreapp3.1\Stacks and Queues - Lecture.csproj.CoreCompileInputs.cache
+C:\Users\Минко\source\repos\Advance  Stacks and Queues\Stacks and Queues - Lecture\obj\Debug\netcoreapp3.1\Stacks and Queues - Lecture.genruntimeconfig.cache
